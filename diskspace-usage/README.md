@@ -1,6 +1,6 @@
 # Diskspace Usage
 
-Write a script to monitor the disk space usage (`/dev/sda2`) on a server and  [*]send an email notification if it exceeds a certain threshold.
+A script to monitor the disk space usage (`/dev/sda2`) on a server and sends an email notification if it exceeds a certain threshold.
 
 If the disk space usage exceeds `90%`, send out an alert with:
 
@@ -24,4 +24,4 @@ efivarfs        128K  102K   22K  83% /sys/firmware/efi/efivars
 tmpfs           3.2G  180K  3.2G   1% /run/user/1000
 ```
 
-`[*] TODO`
+`[*] TODO:` Figure out best way to send out an email.
