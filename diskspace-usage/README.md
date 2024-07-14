@@ -24,4 +24,4 @@ efivarfs        128K  102K   22K  83% /sys/firmware/efi/efivars
 tmpfs           3.2G  180K  3.2G   1% /run/user/1000
 ```
 
-`[*] TODO:` Figure out best way to send out an email.
+<sub>[*] TODO: Figure out best way to send out an email.</sub>
