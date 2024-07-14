@@ -1,6 +1,4 @@
-# Network Monitoring Scripts
-
-### Diskspace Usage
+# Diskspace Usage
 
 Write a script to monitor the disk space usage (`/dev/sda2`) on a server and  [*]send an email notification if it exceeds a certain threshold.
 
